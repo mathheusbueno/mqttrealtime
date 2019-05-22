@@ -1,2 +1,2 @@
-# MQTT Realtime WEB com Arduino, ESP32 aplicado em um supervisório
-MQTT Realtime WEB com Arduino, ESP32
+# MQTT Realtime WEB, ESP8266 aplicado em um supervisório
+
